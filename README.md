@@ -12,5 +12,7 @@ Fonctionnalités
 
 Utilisation 
 - `go run proxy_checker.go <proxy_file> <proxy_type> <output_file> <timeout>`
+
+
 Exemple : 
 - `go run proxy_checker.go proxies.txt http valides.txt 5000`
